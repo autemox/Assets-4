@@ -12,7 +12,7 @@ Bloat/Expand Mesh with "Scale Along Normals" in Blender
 3. Hit A to select all, or select just the region you want.
 4.	Press Alt + S (“Scale Along Normals”: expands or contracts outward/inward along each face’s normal)
 
-Unwrap UV
-1. Hit A to select all.
-2. Press U > Smart UV Project (easy option).
-
+Check Dimensions
+1. hit N and look under 'Dimensions'
+2. use this X/Y/Z dimension to estimate the size of your texture .png
+3. goal is 20 pixels per meter (aka 20 ppu)
