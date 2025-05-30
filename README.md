@@ -6,7 +6,7 @@ Important notes:
 
 ## How to modify an existing asset to make it '3d pixelated'
 
-Boat/Expand Mesh with "Scale Along Normals" in Blender
+Bloat/Expand Mesh with "Scale Along Normals" in Blender
 1. Load FBX to Blender.
 2. Tab into Edit Mode.
 3. Hit A to select all, or select just the region you want.
