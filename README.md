@@ -16,3 +16,4 @@ Check Dimensions
 1. hit N and look under 'Dimensions'
 2. use this X/Y/Z dimension to estimate the size of your texture .png
 3. goal is 20 pixels per meter (aka 20 ppu)
+4. the objects pixels should match the size of the character pixels in example scene
