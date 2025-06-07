@@ -4,10 +4,10 @@ Important notes:
  - Pixels Per Unit: 20
  - Height of Average Human: 2.1 units
 
-##In-Game Screenshot
+## In-Game Screenshot
 ![Screenshot](ConceptArt/screenshot.png)
 
-##Example Game Assets
+## Example Game Assets
 ![Example](ConceptArt/sample.png)
 
 ## How to modify an existing asset to make it '3d pixelated'
