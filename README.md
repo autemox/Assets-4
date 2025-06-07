@@ -4,6 +4,12 @@ Important notes:
  - Pixels Per Unit: 20
  - Height of Average Human: 2.1 units
 
+##In-Game Screenshot
+![Screenshot](screenshot.jpg)
+
+##Example Game Assets
+![Example](sample.jpg)
+
 ## How to modify an existing asset to make it '3d pixelated'
 
 Bloat/Expand Mesh with "Scale Along Normals" in Blender
@@ -15,5 +21,5 @@ Bloat/Expand Mesh with "Scale Along Normals" in Blender
 Check Dimensions
 1. hit N and look under 'Dimensions'
 2. use this X/Y/Z dimension to estimate the size of your texture .png
-3. goal is 20 pixels per meter (aka 20 ppu)
+3. goal is 18 pixels per meter or smaller (aka 18 ppu)
 4. the objects pixels should match the size of the character pixels in example scene
