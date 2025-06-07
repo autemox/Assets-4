@@ -5,10 +5,10 @@ Important notes:
  - Height of Average Human: 2.1 units
 
 ##In-Game Screenshot
-![Screenshot](ConceptArt/screenshot.jpg)
+![Screenshot](https://raw.githubusercontent.com/autemox/Assets-4/main/ConceptArt/screenshot.jpg)
 
 ##Example Game Assets
-![Example](ConceptArt/sample.jpg)
+![Example](https://raw.githubusercontent.com/autemox/Assets-4/main/ConceptArt/sample.jpg)
 
 ## How to modify an existing asset to make it '3d pixelated'
 
