@@ -5,10 +5,10 @@ Important notes:
  - Height of Average Human: 2.1 units
 
 ##In-Game Screenshot
-![Screenshot](screenshot.jpg)
+![Screenshot](ConceptArt/screenshot.jpg)
 
 ##Example Game Assets
-![Example](sample.jpg)
+![Example](ConceptArt/sample.jpg)
 
 ## How to modify an existing asset to make it '3d pixelated'
 
