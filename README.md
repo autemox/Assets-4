@@ -1,7 +1,7 @@
 # Assets-4
 
 Important notes:
- - Pixels Per Unit: 20
+ - Pixels Per Unit: 18
  - Height of Average Human: 2.1 units
 
 ## In-Game Screenshot
